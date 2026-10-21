@@ -1,0 +1,19 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Logs & temp files
+*.log
+esp-install-log.txt
+reports/
+logs/
+backups/
+ESP-Backup/
+recovery-download/
+
+# Sensitive or user-specific files
+*.plist.bak
+*.efi.bak
